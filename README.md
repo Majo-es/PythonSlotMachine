@@ -1,4 +1,4 @@
-### Python Slot Machine: Spin for Fun!
+### Python Slot Machine: Spin for Fun! @brocode 
 This Python program simulates a classic slot machine experience. It allows you to:
 
 - Place your bet: Choose how much you're willing to wager on each spin.
